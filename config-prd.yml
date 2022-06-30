@@ -1,6 +1,3 @@
-jwt:
-    tile: 1000
-    secret: hello-world no hello
 posco:
     name: 3기 end
     count: 20
